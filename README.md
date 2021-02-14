@@ -3,7 +3,7 @@
 <div align="center">
   </div>
   <div align="center">
-  <p>a.k.a <b>0xKenji</b>, Currently I am a student in 2nd year of college. I am intrested in Malware Analysis, Reverse Engineering, Win Internals, Cyber Security & Game Hacking, I have been doing projects recently to have a deeper understanding of these areas & I wish to share and contribute to the open source community in the coming months . I'm also a proud member of the organization known as <a href="https://github.com/AXI4L">AXIAL</a> </p>
+I am a student in my 2nd year of college. I am intrested in Malware Analysis, Reverse Engineering, Win Internals, Cyber Security & Game Hacking, I have been doing projects recently to have a deeper understanding of these areas & I wish to share and contribute to the open source community in the coming months . I'm also a proud member of the organization known as <a href="https://github.com/AXI4L">AXIAL</a> </p>
   
   <p><b>Connect with me through:</b></p>
   
